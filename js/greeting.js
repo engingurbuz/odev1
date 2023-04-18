@@ -1,0 +1,1 @@
+myName.innerHTML = prompt("Lütfen Adınızı Giriniz: ")
